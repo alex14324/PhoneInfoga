@@ -1,13 +1,4 @@
-
-<div align="center">
-  <a href="https://travis-ci.org/sundowndev/PhoneInfoga">
-    <img src="https://img.shields.io/travis/sundowndev/PhoneInfoga/master.svg?style=flat-square" alt="Build Status" />
-  </a>
-  
-</div>
-
-<h4 align="center">Information gathering & OSINT reconnaissance tool for phone numbers</h4>
-
+##PhoneSploit
 
 ## About
 
