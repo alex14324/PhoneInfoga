@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
-</p>
 
 <div align="center">
   <a href="https://travis-ci.org/sundowndev/PhoneInfoga">
@@ -28,12 +25,3 @@ PhoneInfoga is one of the most advanced tools to scan phone numbers using only f
 
 ![Footprinting process](https://i.imgur.com/qCkgzz8.png)
 
-## License
-
-This tool is licensed under the GNU General Public License v3.0.
-
-Some parts of this code comes from [Infoga](https://github.com/m4ll0k/infoga), another project licensed under GPLv3.0.
-
-[Icon](https://www.flaticon.com/free-icon/fingerprint-search-symbol-of-secret-service-investigation_48838) made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga?ref=badge_large)
