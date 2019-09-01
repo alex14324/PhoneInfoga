@@ -6,28 +6,11 @@
   <a href="https://travis-ci.org/sundowndev/PhoneInfoga">
     <img src="https://img.shields.io/travis/sundowndev/PhoneInfoga/master.svg?style=flat-square" alt="Build Status" />
   </a>
-  <a href="https://hub.docker.com/r/sundowndev/phoneinfoga/builds">
-    <img src="https://img.shields.io/docker/cloud/build/sundowndev/phoneinfoga.svg?style=flat-square" alt="Build Status" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/python-3.6-blue.svg?style=flat-square" alt="Python version" />
-  </a>
-  <a href="https://github.com/sundowndev/PhoneInfoga/releases">
-    <img src="https://img.shields.io/github/release/SundownDEV/PhoneInfoga.svg?style=flat-square" alt="Latest version" />
-  </a>
-  <a href="https://github.com/sundowndev/PhoneInfoga/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/sundowndev/PhoneInfoga.svg?style=flat-square" alt="License" />
-  </a>
+  
 </div>
 
 <h4 align="center">Information gathering & OSINT reconnaissance tool for phone numbers</h4>
 
-<p align="center">
-  <a href="https://sundowndev.github.io/PhoneInfoga/">Documentation</a> •
-  <a href="https://sundowndev.github.io/PhoneInfoga/usage/">Basic usage</a> •
-  <a href="https://sundowndev.github.io/PhoneInfoga/resources/">OSINT resources</a> •
-  <a href="https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Related blog post</a>
-</p>
 
 ## About
 
